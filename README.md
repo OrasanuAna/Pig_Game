@@ -42,3 +42,8 @@ To play the game locally:
 - **HTML** for structuring the content
 - **CSS** for styling the game interface
 - **JavaScript** for game logic and interactivity
+
+## Credits
+
+This project was developed as part of the **The Complete JavaScript Course: From Zero to Expert!** by **Jonas Schmedtmann**.
+
